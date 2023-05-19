@@ -78,3 +78,10 @@
 
 <p align="center">
   <img src="https://ga.chaixian.tk/图片/有趣的动图/貓貓蟲咖波睡觉.gif" height="64" width="64" /></p>
+
+
+<h2 align="center">🏆 My Github Trophy:</h2>
+
+<p align="center">
+  <img alt="GitHub Trophy" src="https://github-profile-trophy.vercel.app/?username=yoonA2022&theme=dracula" />
+</p>
