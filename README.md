@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **programming**
 
-- 💌 How to reach me ** a@auzgo.com**
+- 💌 How to reach me **a@auzgo.com**
 
 - ☕️ [Discuss some interesting topics with me](https://discord.gg/8t9s94gm7w)
 
@@ -18,3 +18,12 @@
 - [x] 🍿 Watch a movie
 
 - [x] 🍊 Do something cool
+
+
+<h2 align="center"> 🗂️ The app I use </h2>
+
+<p>
+  
+  
+  
+</p>
