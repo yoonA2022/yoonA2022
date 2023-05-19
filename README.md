@@ -1,6 +1,4 @@
-## Hi, 👋  I'm <a href="https://auzgo.com" target="_blank">🍊妖情白~yoonA🐹</a>
-
-
+<h1 align="center">Hi 👋 I'm 🍊妖情白~yoonA🐹 <br><br> <img src="https://img.shields.io/badge/Hello👋-FF8C00.svg?logo=gitea&logoColor=white"> </h1>
 
 - ☺️[My Website](https://auzgo.com)
 
