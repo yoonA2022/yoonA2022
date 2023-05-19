@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋 I'm 🍊妖情白~yoonA🐹 <br><br> <img src="https://img.shields.io/badge/Hello👋-FF8C00.svg?logo=gitea&logoColor=white"> </h1>
 
+<p align="center"> <img src="https://ga.chaixian.tk/图片/有趣的动图/貓貓蟲咖波 Happy.gif" height="74" width="150" /> </p>
+
 - ☺️[My Website](https://auzgo.com)
 
 - 🔭 I'm currently [sharing some fun content on my blog](https://auzgo.com)
@@ -75,4 +77,4 @@
 </p>
 
 <p align="center">
-  <img src="https://ga.chaixian.tk/图片/有趣的动图/雪地柯基3.gif" height="32" width="32" /></p>
+  <img src="https://ga.chaixian.tk/图片/有趣的动图/貓貓蟲咖波睡觉.gif" height="64" width="64" /></p>
