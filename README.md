@@ -87,8 +87,15 @@
 </p>
 
 
-<h2 align="center">⭐️ My Github Streak Stats </h2>
+<h2 align="center">🌟 My Github Streak Stats </h2>
 
 <p align="center">
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yoonA2022&theme=dark" />
+</p>
+
+
+<h2 align="center">☕️ My Github Stats </h2>
+
+<p align="center">
+   <img  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yoonA2022&show_icons=true&theme=dracula&hide=issues&hide_border=true" />
 </p>
