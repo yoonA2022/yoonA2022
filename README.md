@@ -14,11 +14,11 @@
 
 ## 🌐 About Me
 
-- ☺️ Website: [https://auzgo.com](https://auzgo.com)
+- ☺️ Website: [https://auzgo.com](https://auzuu.com)
 - 🔭 Blog: Sharing fun content & ideas
 - 🌱 Currently learning: **Programming**
-- 💌 Contact: [a@auzgo.com](mailto:a@auzgo.com)
-- ☕ Chat with me: [Discord Server](https://discord.gg/8t9s94gm7w)
+- 💌 Contact: [a@auzgo.com](mailto:admin@auzuu.com)
+- ☕ Chat with me: [Discord Server](https://)
 
 ---
 
