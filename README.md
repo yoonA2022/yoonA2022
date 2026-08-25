@@ -14,7 +14,7 @@
 
 ## 🌐 About Me
 
-- ☺️ Website: [https://auzgo.com](https://auzuu.com)
+- ☺️ Website: [https://auzuu.com](https://auzuu.com)
 - 🔭 Blog: Sharing fun content & ideas
 - 🌱 Currently learning: **Programming**
 - 💌 Contact: [a@auzuu.com](mailto:admin@auzuu.com)
