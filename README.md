@@ -17,7 +17,7 @@
 - ☺️ Website: [https://auzgo.com](https://auzuu.com)
 - 🔭 Blog: Sharing fun content & ideas
 - 🌱 Currently learning: **Programming**
-- 💌 Contact: [a@auzgo.com](mailto:admin@auzuu.com)
+- 💌 Contact: [a@auzuu.com](mailto:admin@auzuu.com)
 - ☕ Chat with me: [Discord Server](https://)
 
 ---
